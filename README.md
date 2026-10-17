@@ -28,7 +28,14 @@ A decentralized, zero-persistence, peer-to-peer (P2P) secure messaging system bu
    ```bash
    git clone [https://github.com/yassine-136ha/p2p_chat.git](https://github.com/yassine-136ha/p2p_chat.git)
    cd p2p_chat
+
+![Termux Execution Screenshot](https://raw.githubusercontent.com/yassine-136ha/p2p_chat/main/Screenshot_2026-10-17-17-01-53-051_com.miui.gallery.jpg)
+
+
+
 ome to Termux!
+
+
 
 Docs:       https://termux.dev/docs
 Donate:     https://termux.dev/donate
