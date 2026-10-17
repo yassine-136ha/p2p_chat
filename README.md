@@ -31,31 +31,6 @@ A decentralized, zero-persistence, peer-to-peer (P2P) secure messaging system bu
 
 ![Termux Execution Screenshot](https://raw.githubusercontent.com/yassine-136ha/p2p_chat/main/Screenshot_2026-10-17-17-01-53-051_com.miui.gallery.jpg)
 
-
-
-ome to Termux!
-
-
-
-Docs:       https://termux.dev/docs
-Donate:     https://termux.dev/donate
-Community:  https://termux.dev/community
-
-Working with packages:
-
- - Search:  pkg search <query>
- - Install: pkg install <package>
- - Upgrade: pkg upgrade
-
-Subscribing to additional repositories:
-
- - Root:    pkg install root-repo
- - X11:     pkg install x11-repo
-
-For fixing any repository issues,
-try 'termux-change-repo' command.
-
-Report issues at https://termux.dev/issues
 ~/p2p_chat_1 $ cd
 ~ $ cd ~/p2p_chat_2 && TOR_HS_DIR=$PREFIX/var/lib/tor/chat_2 CHAT_TOR=1 ./p2p_chat
 == Decentralized encrypted P2P chat (libp2p + E2E) ==
@@ -101,36 +76,6 @@ Choose a number:
 
 
 
-
-
-
-
-
-
-
-
-
-ome to Termux!
-
-Docs:       https://termux.dev/docs
-Donate:     https://termux.dev/donate
-Community:  https://termux.dev/community
-
-Working with packages:
-
- - Search:  pkg search <query>
- - Install: pkg install <package>
- - Upgrade: pkg upgrade
-
-Subscribing to additional repositories:
-
- - Root:    pkg install root-repo
- - X11:     pkg install x11-repo
-
-For fixing any repository issues,
-try 'termux-change-repo' command.
-
-Report issues at https://termux.dev/issues
 ~ $ cd ~/p2p_chat_1 && TOR_HS_DIR=$PREFIX/var/lib/tor/chat_1 CHAT_TOR=1 ./p2p_chat
 == Decentralized encrypted P2P chat (libp2p + E2E) ==
 
